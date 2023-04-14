@@ -1,0 +1,37 @@
+*{  
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.App {
+    background-color: #fffefe;
+    margin: 0% auto;
+    border-radius: 3rem;
+    border: 11rem hidden #000000;
+    border-collapse: collapse;
+    box-shadow: 0 0 0 1px black;
+    overflow: hidden;
+    max-width: 60rem;
+  
+    
+  }
+
+  .Bg{
+    width: 140wv;
+    height: 142vh;
+    background-image: url('smokks.jpg');
+    background-size:contain;
+    
+    
+  }
+  .ant-table-cell{
+    text-align: center;
+  }
+
+  :where(.css-dev-only-do-not-override-1vtf12y).ant-table-wrapper .ant-table-thead >tr>th, :where(.css-dev-only-do-not-override-1vtf12y).ant-table-wrapper .ant-table-thead >tr>td{
+    text-align: center;
+    background-color: rgb(255, 20, 20);
+  }
+  
