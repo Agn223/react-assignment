@@ -9,3 +9,8 @@ Use the package manager [npm](https://www.npmjs.com/) to install antdesign.
 ```bash
  npm install antd
 ```
+## Installation of react-router-dom
+
+```bash
+ npm install react-router-dom
+```
