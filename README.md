@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Getting Started 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and Styled using [Ant Design](https://ant.design/).
+
+## Create a new project using [npm](https://www.npmjs.com/)
+```bash
+ npx install create-react-app app
+```
+
+We have to install both Ant Design and react-router moduels into our project folder .
 
 ## Installation of Ant Design
 
